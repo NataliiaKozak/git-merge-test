@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 this is some content to mess with
 new content
+totally different content to merge later
+>>>>>>> 0112e61 (we are commiting the inital content)
